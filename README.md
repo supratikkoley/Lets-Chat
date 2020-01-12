@@ -1,6 +1,6 @@
 # Let's Chat
 
-A new Flutter project.
+It is an one-to-one chat application made with flutter.
 
 ## Getting Started
 
