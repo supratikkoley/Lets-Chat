@@ -1,4 +1,4 @@
-# skychat
+# Let's Chat
 
 A new Flutter project.
 
