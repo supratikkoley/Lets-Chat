@@ -1,7 +1,10 @@
 # Let's Chat
 
 It is an one-to-one chat application made with flutter.
+## How to run the app?
 
+To run the app, you just need to add google-services.json file to the android/app folder.
+You can get this file by creating a new project or creating a new app within a existing firebase project.
 ## Getting Started
 
 This project is a starting point for a Flutter application.
